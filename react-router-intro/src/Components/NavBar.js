@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-let NavBar = () => {
+const NavBar = () => {
     return (
         <div className="navBar">
             <Link to="/">Home</Link>
